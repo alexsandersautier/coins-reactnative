@@ -14,3 +14,7 @@ npm i typeorm reflect-metadata
 ~~~typescript
 npm i babel-plugin-transform-typescript-metadata -D
 ~~~
+
+
+#### apk
+- make download this file "coins.rar"
